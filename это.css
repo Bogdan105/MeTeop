@@ -1,0 +1,84 @@
+h1 {
+    margin-left: 415px;
+    margin-right: 425px;
+}
+
+h4 {
+    margin-left: 500px;
+}
+
+#slave {
+    margin-left: 275px;
+    margin-top: 41px;
+    margin-right: 1400px;
+}
+
+#medium {
+    margin-top: -45px;
+    margin-left: 750px;
+    margin-right: 850px;
+}
+
+
+#hi {
+    margin-left: 1300px;
+    margin-right: 200px;
+    margin-top: -43px;
+}
+
+#FeK {
+    margin-right: 525px;
+    padding-left: 10px;
+}
+
+#Lite {
+    margin-right: 1300px;
+    margin-left: 200px;
+    font-size: 22px;
+    padding-left: 4px;
+    border-radius: 100%;
+    display: block;
+    
+    
+}
+
+
+
+a {
+    color: skyblue;
+}
+
+#on {
+    margin-right: 650px;
+    margin-left: 650px;
+    font-size: 22px;
+    margin-top: -180px;
+    border-radius: 100%;
+    display: block;
+    
+
+}
+
+#hight {
+    margin-right: 100px;
+    margin-left: 1250px;
+    font-size: 22px;
+    margin-top: -180px;
+    border-radius: 100%;
+    display: block;
+    
+    
+}
+
+.ez {
+    background-color: #0b83f3;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 75%;
+}
+
